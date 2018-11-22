@@ -1,7 +1,7 @@
 {
 	"name": "check-eos-watchdoggiee",
 	"description": "CLI for watchdoggiee contract",
-	"version": "0.0.3",
+	"version": "0.0.5",
 	"main": "index.js",
 	"author": {
 		"name": "orange1337"
