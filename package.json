@@ -1,11 +1,14 @@
 {
 	"name": "check-eos-watchdoggiee",
 	"description": "CLI for watchdoggiee contract",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"main": "index.js",
 	"author": {
-		"name": "orange1337",
-		"url": "https://github.com/orange1337/eos-nagios-plugins"
+		"name": "orange1337"
+	},
+	"repository": {
+    	"type": "git",
+    	"url": "git@github.com:orange1337/eos-nagios-plugins"
 	},
 	"licenses": [
 		{
