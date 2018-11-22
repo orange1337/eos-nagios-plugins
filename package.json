@@ -1,0 +1,27 @@
+{
+	"name": "check-eos-watchdoggiee",
+	"description": "CLI for Nagios API on js",
+	"version": "0.0.1",
+	"main": "index.js",
+	"author": {
+		"name": "orange1337",
+		"url": "https://github.com/orange1337/eos-nagios"
+	},
+	"licenses": [
+		{
+			"type": "MIT"
+		}
+	],
+	"preferGlobal": true,
+	"bin": {
+		"nagios": "./bin/nagios"
+	},
+	"engines": {
+		"node": ">= 0.8.0"
+	},
+	"dependencies": {
+		"colors": "^1.3.2",
+		"commander": "^2.19.0"
+	},
+	"keywords": []
+}
